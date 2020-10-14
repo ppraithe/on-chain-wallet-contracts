@@ -7,4 +7,4 @@ Oyente: https://github.com/melonproject/oyente
 Osiris: https://github.com/christoftorres/Osiris  
 Maian: https://github.com/ivicanikolicsg/MAIAN  
 Mythril: https://github.com/ConsenSys/mythril  
-The scanned result and analysis data from all the above tools for each wallet contract is stored in seperate folders.
+The scanned result and analysis data from these tools for each wallet contract is stored in ScanResult folder.
